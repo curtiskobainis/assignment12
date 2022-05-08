@@ -1,0 +1,47 @@
+h1 {
+    font-family: 'Koulen', cursive;
+}
+
+td, th {
+    font-family: 'Oswald', sans-serif;
+    padding: 4px;
+}
+
+label {
+    vertical-align: top;
+}
+
+input, select, textarea {
+    width: auto;
+    margin-left: 8px;
+    border: solid 1px black;
+    padding: 5px;
+}
+
+input[type=button]:hover {
+    background-color: yellow;
+}
+
+input[type=button]:active {
+    background-color: pink;
+}
+
+input[type=button] {
+    background-color: red;
+    font-family: 'Oswald', sans-serif;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+}
+
+#shopping {
+    border: 1px dotted red;
+    background-color: pink;
+}
+
+#items_table {
+    border: 1px dotted red;
+    background-color: pink;
+    margin-top: 12px;
+}
